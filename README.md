@@ -2,7 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/799578/59486980-c2312d80-8ead-11e9-8c77-45edfc76d423.jpg" width="200">
 
-Here is a knowledge sharing of DJI Robomaster S1!
+Here is a knowledge sharing of DJI Robomaster S1! 
+
+Feel free to make pull request of file a issue to contribute your knowledge here.
 
 # Programming
  - Offcial Programming Guide[En](https://www.dji.com/robomaster-s1/programming-guide), [简体中文](https://www.dji.com/cn/robomaster-s1/programming-guide)
