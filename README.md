@@ -11,11 +11,11 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
  - Offcial Programming Guide [En](https://www.dji.com/robomaster-s1/programming-guide), [简体中文](https://www.dji.com/cn/robomaster-s1/programming-guide)
 
 # RoboMaster App
- - [Download](https://www.dji.com/robomaster-s1?site=brandsite&from=homepage), [简体中文]((https://www.dji.com/cn/robomaster-s1?site=brandsite&from=homepage))
+ - [Download](https://www.dji.com/robomaster-s1?site=brandsite&from=homepage), [简体中文](https://www.dji.com/cn/robomaster-s1?site=brandsite&from=homepage)
  
 # Videos
  - [Offcial Tutorials](https://www.dji.com/robomaster-s1/video), [简体中文](https://www.dji.com/cn/robomaster-s1/video)
- - [Offical courses](https://www.dji.com/robomaster-s1/video-courses)[简体中文](https://www.dji.com/cn/robomaster-s1/video-courses)
+ - [Offical courses](https://www.dji.com/robomaster-s1/video-courses), [简体中文](https://www.dji.com/cn/robomaster-s1/video-courses)
  - [YouTube review: This Robot is SO fun! New DJI Robomaster S1](https://youtu.be/mRWe5Kv745Y)
  
  
