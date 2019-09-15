@@ -7,15 +7,18 @@ Here is a knowledge sharing of DJI Robomaster S1!
 Feel free to make a pull request or file an issue to contribute your knowledge here.
 
 
-# Programming
+## Tutorials
  - Offcial Programming Guide [En](https://www.dji.com/robomaster-s1/programming-guide), [简体中文](https://www.dji.com/cn/robomaster-s1/programming-guide)
-
-# RoboMaster App
- - [Download](https://www.dji.com/robomaster-s1?site=brandsite&from=homepage), [简体中文](https://www.dji.com/cn/robomaster-s1?site=brandsite&from=homepage)
- 
-# Videos
  - [Offcial Tutorials](https://www.dji.com/robomaster-s1/video), [简体中文](https://www.dji.com/cn/robomaster-s1/video)
  - [Offical courses](https://www.dji.com/robomaster-s1/video-courses), [简体中文](https://www.dji.com/cn/robomaster-s1/video-courses)
+ - [机甲大师RoboMaster S1产品教学视频](https://bbs.dji.com/thread-220736-1-1.html)
+ - [机甲大师S1主要api汇总](https://bbs.dji.com/thread-227127-1-1.html)
+
+## RoboMaster App
+ - [Download](https://www.dji.com/robomaster-s1?site=brandsite&from=homepage), [简体中文](https://www.dji.com/cn/robomaster-s1?site=brandsite&from=homepage)
+ 
+## Others
+ - [官方BBS](https://bbs.dji.com/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=322)
  - [YouTube review: This Robot is SO fun! New DJI Robomaster S1](https://youtu.be/mRWe5Kv745Y)
  
  
