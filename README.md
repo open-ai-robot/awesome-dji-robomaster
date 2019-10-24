@@ -11,6 +11,7 @@ Feel free to make a pull request or file an issue to contribute your knowledge h
  - Offcial Programming Guide [En](https://www.dji.com/robomaster-s1/programming-guide), [简体中文](https://www.dji.com/cn/robomaster-s1/programming-guide)
  - [Offcial Tutorials](https://www.dji.com/robomaster-s1/video), [简体中文](https://www.dji.com/cn/robomaster-s1/video)
  - [Offical courses](https://www.dji.com/robomaster-s1/video-courses), [简体中文](https://www.dji.com/cn/robomaster-s1/video-courses)
+ - [Offical Programming Guide](https://www.dji.com/robomaster-s1/programming-guide), [简体中文](https://www.dji.com/cn/robomaster-s1/programming-guide)
  - [机甲大师RoboMaster S1产品教学视频](https://bbs.dji.com/thread-220736-1-1.html)
  - [机甲大师S1主要api汇总](https://bbs.dji.com/thread-227127-1-1.html)，[Markdown 版](https://github.com/program-in-chinese/overview/wiki/%E5%A4%A7%E7%96%86Python-API%E5%88%97%E8%A1%A8)
 
